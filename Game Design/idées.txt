@@ -1,0 +1,24 @@
+Gameplay : 
+
+- Jeu d'aventure textuelle avec des éléments de RPG,
+	- Plusieurs persos jouables (?),
+	- Objets et inventaire,
+	- Exploration de donjon, 
+		- Plusieurs salles à examiner pour y récupérer des objets,
+		- """Enigmes""" (?)
+	- Combat au tour par tour, 
+		- Les ennemis sont recrutés à la fin du combat (?),
+	- Boss final,
+	- Chaque salle offre une série de choix,
+		- Certains choix sont définitifs et le joueur ne peut pas revenir sur eux (?),
+
+Fétiches :
+
+- Perso ppal féminin,
+- Monstres,
+- Z,
+- Transformation (?),
+
+Histoire : 
+
+- Inspirée par "La Belle et la Bête", le joueur est une chevalière envoyée par le roi vers un manoir/château/tour isolé(e) du royaume pour éliminer le démon et les monstres l'habitant. Elle découvrira que ces monstres sont gentils et acceptent volontiers des relations sexuelles avec elle. Le boss final est une bête s'étant réfugié dans cet endroit avec ses serviteurs car il fuyait le regard des hommes, le voyant comme un monstre cruel et violent. Après leur combat, le protag réalise qu'il est gentil et accepte de vivre avec lui, lui donnant des enfants ainsi qu'à tous les monstres de la demeure.
