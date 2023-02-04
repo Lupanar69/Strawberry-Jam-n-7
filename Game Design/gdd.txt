@@ -1,4 +1,4 @@
-Nom : Enter the dilgeon
+Nom : The Beastlayer
 Plateforme : Windows, WebGL, Android (après la jam)
 
 

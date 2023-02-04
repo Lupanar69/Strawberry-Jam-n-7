@@ -10,11 +10,7 @@ Types :
 - Assets :
 	- Illustrations : 
 		- Intro :
-			- Donjon maléfique extérieur (En cours)
-			- Monstre dans l'ombre assis sur un trône 
-			- Joueur chevalier s'inclinant devant le roi 
-			- Joueur chevalier récupérant l'épée sacrée 
-			- Joueur chevalier de dos à cheval allant vers le donjon 
+			- Sorcier introduisant le joueur à sa mission
 
 		- En jeu : 
 			- Entrée du donjon 
@@ -27,7 +23,7 @@ Types :
 			- Salle d'entraînement au combat avec de nombreux loups-garous  
 			- Salle des armes, indiquant l'apparition du loup-garou recrutable 
 
-			- Intérieur des murailles, où l'on voit de nombreuses chauve-souris géantes voler 
+			- Murailles du château, où l'on voit de nombreuses chauve-souris géantes voler (Terminé)
 			- Statues gardiennes de la grande-porte de la tour centrale, indiquant l'apparition des gargouilles 
 
 			- Salle du trésor avec montagnes de pièces d'or, bijoux et autres 
@@ -69,13 +65,14 @@ Types :
 
 - UIs : 
 
-	- Icones son et musique pour les boutons qui coupent le son
+	- Icones son et musique pour les boutons qui coupent le son (Terminé)
 
 - Code : 
 	
 	- UIs :
 		- Menu principal :
-			- Boutons Commencer, quitter, couper le son et la musique,
+			- Conteneur des boutons (Terminé)
+			- Boutons Commencer, quitter, couper le son et la musique, (En cours)
 	
 	- Personnages,
 	- Stats,

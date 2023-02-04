@@ -56,6 +56,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1554591687298412554, guid: 48c4f8cba4f8cde47abd8e05f5dd95c5, type: 3}
+      propertyPath: <CharSize>k__BackingField.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1554591687298412554, guid: 48c4f8cba4f8cde47abd8e05f5dd95c5, type: 3}
+      propertyPath: <CharSize>k__BackingField.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1554591687298412554, guid: 48c4f8cba4f8cde47abd8e05f5dd95c5, type: 3}
+      propertyPath: <BgColTransp>k__BackingField
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 1554591687298412555, guid: 48c4f8cba4f8cde47abd8e05f5dd95c5, type: 3}
       propertyPath: m_Name
       value: Camera ASCII render Variant

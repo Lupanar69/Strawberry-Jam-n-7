@@ -224,11 +224,11 @@ RectTransform:
   m_Father: {fileID: 1995718197}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 500}
-  m_Pivot: {x: 0.5, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 290}
+  m_SizeDelta: {x: -420, y: -580}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &943733551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 2d954bb3d769ac840a296f81de15ba2e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -326,6 +326,14 @@ PrefabInstance:
     - target: {fileID: 3037929086970399818, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
       propertyPath: m_Name
       value: 'Camera ASCII UI render '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
+      propertyPath: <CharSize>k__BackingField.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
+      propertyPath: <CharSize>k__BackingField.y
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
