@@ -1,0 +1,133 @@
+Nom : Enter the dilgeon
+Plateforme : Windows, WebGL, Android (après la jam)
+
+
+Fétiches :
+
+- Perso ppal féminin,
+- Monstres,
+- Z,
+
+
+Histoire : 
+
+- Inspirée par "La Belle et la Bête", le joueur est une chevalière envoyée par le roi vers un donjon maléfique aux confins du royaume pour éliminer le démon et les monstres l'habitant. Elle découvrira que ces monstres sont gentils et désirent son aide pour apaiser leur maître, entré dans une colère noire depuis son bannissement du royaume ; ces serviteurs acceptent même volontiers des relations sexuelles avec elle. 
+
+Le boss final est une bête s'étant réfugiée dans cet endroit avec ses serviteurs pour fuir le regard des hommes, ces derniers le voyant comme un monstre cruel et violent. La solitude le poussa à la colère, s'attaquant à tous les humains s'aventurant sur son territoire. Après leur combat, le protag réalise qu'il est gentil et accepte de vivre avec lui, lui donnant des enfants ainsi qu'à tous les monstres de la demeure.
+
+
+
+Mécaniques : 
+
+- Jeu d'aventure textuelle avec des éléments de RPG.
+
+- Le joueur navigue dans des salles et dispose de plusieurs choix pour progresser dans les salles voisines.
+
+- Il dispose d'un inventaire et peut ramasser des objets l'aidant dans sa progression :
+	- Un clé normale ouvrant une porte fermée, introduisant le joueur à son inventaire,
+	- Un clé lourde ouvrant la porte de la salle du boss final,
+	- Des objets de soin restaurant ses PV et PP,
+	- Des objets de combat infligeant des dégâts aux ennemis,
+	- Des objets permettant aux membres de l'équipe d'apprendre de nouvelles capacités (ne vont pas dans l'inventaire, sont automatiquement consommés),
+
+- Le joueur peut combattre des ennemis dans un système de combat en tour par tour, les ennemis ayant toujours l'initiative.
+	- Le joueur ne possède que 3 stats : Attaque, PV et PP. Les PV et PP sont restaurés après chaque combat.
+	- Le joueur peut attaquer, se défendre, et utiliser des objets. 
+		- Choisir "Attaquer" affiche la liste des capacités connues par le perso actif. L'attaque par défaut est gratuite, mais certaines attaques utilisent des PP.
+		- Choisir se "Défendre" permet au perso d'esquiver une attaque (si ciblé), et régénère 20% des PP.
+	- A la fin de chaque combat, le jeu offre une scène X avec le personnage battu avant de le recruter.
+
+
+
+Niveaux :
+
+- Les salles uniques : 
+
+	- Les douves (le joueur ne peut pas entrer par le pont-levis, il doit s'infiltrer discrètement dans le château),
+	- Les "égoûts", abritant des slimes verts hostiles (non recrutable), et où le joueur peut trouver des champignons lui redonnant PVs et PPs,
+	- Le puits, où se cache un slime bleu, un amas de plusieurs slimes verts devenu conscient et qui attaque le joueur pour essayer de s'accoupler avec elle (premier personnage recrutable),
+	- Les salles de dressage, où plusieurs enfants-loups copulent et attaquent le joueur (non-recrutable)
+	- La salle des armes, où s'entraîne un loup-garou qui attaque le joueur pour essayer de s'accoupler avec elle (perso recrutable), et où le joueur pourra récupérer une épée qui lui apprendra une nouvelle capacité, ainsi que des gourdes d'alcool explosives,
+	- Les murailles, où le joueur devra combattre des chauve-souris géantes agissant comme sentinelles (non recrutables) avant de combattre deux gargouilles (1 personnage recrutable)
+	- La tour centrale, où le joueur devra combattre un draque (recrutable),
+	- Une salle du trésor, où le joueur devra choisir un objets parmis 5, offert par le draque en gage d'amitié, l'objet offrant une capacité au personnage correspondant,
+	- La salle du trône, où le joueur affrontera le boss final,
+
+
+- Les salles répétées : 
+	- Les couloirs, servent de transition entre les différentes salles et permettent de changer d'ambiance et de thème visuel de salles,
+
+
+
+Objets : 
+
+- Champignons rouge et vert, redonnant respectivement des PPs et PVs,
+- Grenades explosives, infligent de lourds dégâts à la cible et des moindres à ses voisins,
+- Epée de la salle des armures, donne une capacité supplémentaire au perso ppal,
+- 5 objets de la salle des trésors, chacun donnant une capacité supplémentaire au personnage correspondant :
+	- Protag : Une épée lui apprenant Breakthrough,
+	- Slime : Une fiole d'acide lui apprenant Dissolve, 
+	- Loup : Une conque lui apprenant Rally Cry,
+	- Gargouille : Un pendule lui apprenant Meditate,
+	- Draque : Un traversin japonais avec un dessin de chevalière dessus, lui apprenant Rest,
+
+
+
+Capacités : 
+
+- Tous : 
+	- Attaque normale, 0 PP,
+
+- Protag : 
+	- Slash, 5 PP, inflige plus de dégâts plus l'ennemi a de PV (obtenu par l'epée),
+	- Breakthrough, 10 PP, double des dégâts, annule la défense de la cible (obtenu dans la salle du trésor),
+
+- Slime: 
+	- Heal, 10 PP, restaure 33% des PV de la cible,
+	- Dissolve, 15PP, peu de dégâts, restaure complètement les PV du lanceur s'il tue la cible avec ce coup
+
+
+- Loup-garou
+	- Claw, 5 PP, inflige plus de dégâts,
+	- Bite, 10 PP, inflige plus de dégâts et a une chance d'apeurer l'ennemi, lui faisant sauter son tour,
+	- Rally Cry, 20 PP, appelle un autre loup-garou plus faible pour aider au combat (obtenu dans la salle du trésor),
+	
+
+- Gargouille
+	- Claw, 5 PP, inflige plus de dégâts,
+	- Glare, 20 PP, aucun dégât mais a de fortes chances de paralyser l'ennemi, l'empêchant d'utiliser des capacités offensives,
+	- Meditate, 5PP, diminue les dégâts que ce perso inflige pendant 3 tours, mais augmente légèrement sa défense et restaure 15% des PPs pendant 3 tours (obtenu dans la salle du trésor),
+
+- Draque
+	- Claw, 5 PP, inflige plus de dégâts,
+	- Firebolt, 25PP, inflige de lourds dégâts à la cible et ses voisins,
+	- Meditate, 5PP, diminue les dégâts que ce perso inflige pendant 3 tours, mais augmente légèrement sa défense et restaure 15% des PPs pendant 3 tours
+	- Rest, 20PP, restaure 75% des PVs du lanceur, mais saute le prochain tour (obtenu dans la salle du trésor),
+
+
+UIs : 
+
+- Ecran menu principal :
+	- Bannière du jeu et titre
+	- Bouton commencer et quitter
+	- Boutons pour couper les effets sonores et la musique
+
+- Ecran exploration : 
+	- Image de la salle actuelle en haut de l'écran
+	- Zone de texte défilable contenant la description de la salle
+	- Boutons de choix de commandes (continuer le dialogue, choisir un chemin, etc. )
+
+- Ecran combat : 
+	- Image de l'ennemi en haut de l'écran
+	- Petite zone de texte indiquant la dernière action effectuée (ex: L'ennemi inflige X pts au slime)
+	- Zone défilable à gauche de l'écran contenant 1 emplacement pour chaque perso du joueur, chacun contenant l'icône d'un perso et ses jauges de PV et PP.
+	- Zone défilable à droite de l'écran contenant 1 emplacement pour chaque ennemi, chacun contenant l'icône d'un ennemi et ses jauges de PV et PP.
+	- Conteneur divisé en deux en bas de l'écran :
+		- La moitié de gauche affiche le nom du perso en cours ainsi que ses capacités,
+		- La moitié de droite affiche les stats de la capacité et sa description,
+
+
+- Ecran de mort : 
+	- Image du mot "fin" au dessus d'une épée brisée et une flaque de sang au sol,
+	- Zone de texte affichant "Vous êtes mort".
+	- Bouton retour menu.

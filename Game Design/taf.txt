@@ -1,0 +1,90 @@
+Types : 
+- Terminé
+- Finitions
+- En cours
+- Abandonné
+- En considération
+- En pause
+- Bugfix/Refonte
+
+- Assets :
+	- Illustrations : 
+		- Intro :
+			- Donjon maléfique extérieur (En cours)
+			- Monstre dans l'ombre assis sur un trône 
+			- Joueur chevalier s'inclinant devant le roi 
+			- Joueur chevalier récupérant l'épée sacrée 
+			- Joueur chevalier de dos à cheval allant vers le donjon 
+
+		- En jeu : 
+			- Entrée du donjon 
+			- Couloir sombre éclairé par des torches (Réutilisable, on changera la couleur du material sous Unity) 
+			
+			- Egoûts humides remplis de flaque de slimes verts 
+			- Colonies de champignons verts et rouges 
+			- Tourbillon de slime vert et bleu, indiquant l'apparition du slime recrutable 
+
+			- Salle d'entraînement au combat avec de nombreux loups-garous  
+			- Salle des armes, indiquant l'apparition du loup-garou recrutable 
+
+			- Intérieur des murailles, où l'on voit de nombreuses chauve-souris géantes voler 
+			- Statues gardiennes de la grande-porte de la tour centrale, indiquant l'apparition des gargouilles 
+
+			- Salle du trésor avec montagnes de pièces d'or, bijoux et autres 
+			- Image du dragon surmontant un de ces trésors 
+			- Image des 5 objets sur des piédestaux 
+			- Pour chaque objet, image du perso correspondant interagissant avec celui-ci 
+
+			- Salle du trône avec trône vu de loin
+			- Image de la bête sur son trône vu de près 
+			- Chevalière tendant son épée devant la bête vaincue à terre 
+			- Image chevalière à genoux aidant d'une main la bête à se lever 
+			- Image 4 compagnons derrière la chevalière 
+			- Image marriage chevalière et bête 
+			- Image chevalière enceinte allaitant ses petits, assise sur les genoux de la bête sur son trône 
+
+
+		- En combat : 
+			- Image slime vert humanoïde nu seul avec bite flasque
+			- 3 slimes verts humanoïdes
+			- Slime bleu avec grosse érection
+			- Image slime bleu battu,
+			- Image 2 loups-garous avec érection,
+			- Image loup-garou avec grosse érection, armure torsale et immense griffe gauche de metal,
+			- Image loup-garou battu,
+			- Image 3 chauve-souris volantes,
+			- Image 2 gargouilles,
+			- Image gargouilles battues,
+			- Image dragon,
+			- Image dragon,
+			- Image boss final,
+
+		- X : 
+			- Sexe avec slime bleu,
+			- Orgie de loups-garous,
+			- Sexe avec loup-garou,
+			- Sexe avec gargouilles,
+			- Sexe avec dragon,
+			Sexe avec bête après mariage,
+
+- UIs : 
+
+	- Icones son et musique pour les boutons qui coupent le son
+
+- Code : 
+	
+	- UIs :
+		- Menu principal :
+			- Boutons Commencer, quitter, couper le son et la musique,
+	
+	- Personnages,
+	- Stats,
+	- Capacités,
+	- Objets,
+	- Inventaire :
+		- Ajouter des objets,
+		- Consommer des objets,
+	- Combat : 
+		- Copie des persos pour ne pas modifier leurs stats d'origine,
+		
+	
