@@ -8,6 +8,21 @@ Types :
 - Bugfix/Refonte
 
 - Assets :
+
+	- Audio : 
+		- BGMs : 
+			- Musique pour l'intro (Terminé),
+			- Musiques d'exploration (Terminé),
+			- Musiques de combat (Terminé),
+			- Musique boss final (Terminé),
+			- Musique marriage (Terminé),
+			- Musique victoire(Terminé),
+
+		-SFXs : 
+			- Son clic confirmation de commande (Terminé),
+			
+		
+		
 	- Illustrations : 
 		- Intro :
 			- Sorcier introduisant le joueur à sa mission
@@ -72,8 +87,8 @@ Types :
 	- UIs :
 		- Menu principal :
 			- Conteneur des boutons (Terminé)
-			- Boutons Commencer, quitter, couper le son et la musique, (En cours)
-	
+			- Boutons Commencer, quitter, couper le son et la musique, (Terminé)
+
 	- Personnages,
 	- Stats,
 	- Capacités,

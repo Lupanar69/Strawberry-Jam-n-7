@@ -327,6 +327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Camera ASCII UI render '
       objectReference: {fileID: 0}
+    - target: {fileID: 3037929086970399818, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
       propertyPath: <CharSize>k__BackingField.x
       value: 8
