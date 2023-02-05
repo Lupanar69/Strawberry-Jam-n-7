@@ -181,7 +181,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5217421220232647876, guid: 6d285f14d50c3994f899fdc67f86ff4e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: QuitBtn
+      value: OnQuitBtn
       objectReference: {fileID: 0}
     - target: {fileID: 5217421220232647876, guid: 6d285f14d50c3994f899fdc67f86ff4e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
@@ -468,6 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a9f557624b889144924957bd5b2b852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  <QuitBtn>k__BackingField: {fileID: 0}
   <SoundImg>k__BackingField: {fileID: 35690479}
   <MusicImg>k__BackingField: {fileID: 1217459020}
   <SoundOnIcon>k__BackingField: {fileID: 21300000, guid: 0b9c05caa2c909748b0e18c974b465f5, type: 3}
@@ -753,7 +754,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8489242700336744160, guid: 4251ebc4eeabfce40a4d4aad4af24416, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: MuteMusicBtn
+      value: OnMuteMusicBtn
       objectReference: {fileID: 0}
     - target: {fileID: 8489242700336744160, guid: 4251ebc4eeabfce40a4d4aad4af24416, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -1367,7 +1368,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8489242700336744160, guid: 4251ebc4eeabfce40a4d4aad4af24416, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: MuteSoundBtn
+      value: OnMuteSoundBtn
       objectReference: {fileID: 0}
     - target: {fileID: 8489242700336744160, guid: 4251ebc4eeabfce40a4d4aad4af24416, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -1550,7 +1551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5217421220232647876, guid: 6d285f14d50c3994f899fdc67f86ff4e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: StartGameBtn
+      value: OnStartGameBtn
       objectReference: {fileID: 0}
     - target: {fileID: 5217421220232647876, guid: 6d285f14d50c3994f899fdc67f86ff4e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName

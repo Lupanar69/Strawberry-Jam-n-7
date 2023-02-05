@@ -25,15 +25,15 @@ Types :
 		
 	- Illustrations : 
 		- Intro :
-			- Sorcier introduisant le joueur à sa mission
+			- Sorcier introduisant le joueur à sa mission (Terminé)
 
 		- En jeu : 
-			- Entrée du donjon 
-			- Couloir sombre éclairé par des torches (Réutilisable, on changera la couleur du material sous Unity) 
+			- Entrées des biomes du donjon (Terminé)
+			- Couloirs sombres éclairés par des torches (Terminé)
 			
 			- Egoûts humides remplis de flaque de slimes verts 
-			- Colonies de champignons verts et rouges 
-			- Tourbillon de slime vert et bleu, indiquant l'apparition du slime recrutable 
+			- Colonies de champignons verts et roses
+			- Tourbillon de slime vert et rose, indiquant l'apparition du slime recrutable 
 
 			- Salle d'entraînement au combat avec de nombreux loups-garous  
 			- Salle des armes, indiquant l'apparition du loup-garou recrutable 
@@ -58,8 +58,8 @@ Types :
 		- En combat : 
 			- Image slime vert humanoïde nu seul avec bite flasque
 			- 3 slimes verts humanoïdes
-			- Slime bleu avec grosse érection
-			- Image slime bleu battu,
+			- Slime rose avec grosse érection
+			- Image slime rose battu,
 			- Image 2 loups-garous avec érection,
 			- Image loup-garou avec grosse érection, armure torsale et immense griffe gauche de metal,
 			- Image loup-garou battu,
@@ -71,7 +71,7 @@ Types :
 			- Image boss final,
 
 		- X : 
-			- Sexe avec slime bleu,
+			- Sexe avec slime rose,
 			- Orgie de loups-garous,
 			- Sexe avec loup-garou,
 			- Sexe avec gargouilles,

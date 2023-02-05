@@ -13,6 +13,16 @@ namespace Game.View
         #region Propriétés
 
         /// <summary>
+        /// Le bouton pour quitter le jeu
+        /// </summary>
+        [field: SerializeField]
+        public GameObject QuitBtn
+        {
+            get;
+            set;
+        }
+
+        /// <summary>
         /// L'image du bouton de son
         /// </summary>
         [field: SerializeField]
@@ -79,7 +89,7 @@ namespace Game.View
         /// <summary>
         /// Lance une nouvelle session
         /// </summary>
-        public void StartGameBtn()
+        public void OnStartGameBtn()
         {
             SceneManager.LoadSceneAsync(1);
         }
@@ -87,19 +97,21 @@ namespace Game.View
         /// <summary>
         /// Ferme le jeu
         /// </summary>
-        public void QuitBtn()
+        public void OnQuitBtn()
         {
 #if UNITY_EDITOR
             EditorApplication.ExitPlaymode();
-#else
+#elif UNITY_STANDALONE_WIN
             Application.Quit();
+#else
+            QuitBtn.SetActive(false);
 #endif
         }
 
         /// <summary>
         /// Coupe ou remet le son
         /// </summary>
-        public void MuteSoundBtn()
+        public void OnMuteSoundBtn()
         {
             int sound = PlayerPrefs.GetInt("sound", 1);
 
@@ -113,7 +125,7 @@ namespace Game.View
         /// <summary>
         /// Coupe ou remet la musique
         /// </summary>
-        public void MuteMusicBtn()
+        public void OnMuteMusicBtn()
         {
             int music = PlayerPrefs.GetInt("music", 1);
 
