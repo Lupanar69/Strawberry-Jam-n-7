@@ -31,8 +31,8 @@ Types :
 			- Entrées des biomes du donjon (Terminé)
 			- Couloirs sombres éclairés par des torches (Terminé)
 			
-			- Egoûts humides remplis de flaque de slimes verts 
-			- Colonies de champignons verts et roses
+			- Egoûts humides remplis de flaque de slimes verts (Terminé)
+			- Colonies de champignons verts et roses (En cours)
 			- Tourbillon de slime vert et rose, indiquant l'apparition du slime recrutable 
 
 			- Salle d'entraînement au combat avec de nombreux loups-garous  

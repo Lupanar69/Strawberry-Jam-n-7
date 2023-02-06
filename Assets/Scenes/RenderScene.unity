@@ -403,7 +403,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3c71d19b2db508c45867e104fbc5bdf1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: daab15390b5cc7a4baddbfa1449f1e10, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -491,11 +491,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
       propertyPath: <CharSize>k__BackingField.x
-      value: 8
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
       propertyPath: <CharSize>k__BackingField.y
-      value: 8
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3037929086970399819, guid: 086bbfbf9f9de6c4889d87177613945a, type: 3}
       propertyPath: <BgColTransp>k__BackingField
